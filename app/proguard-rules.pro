@@ -1,0 +1,2 @@
+-keep class com.luxcalc.pro.data.local.** { *; }
+-keep class com.luxcalc.pro.domain.model.** { *; }
